@@ -1,4 +1,6 @@
 <html>
+  
+  <! –– Código autónomo (completo sin base de datos externa en Mysql ni getData document, hecha con el código de Google Charts como práctica adicional)––>
   <head>
     <h1> Gráfica de Pastel: Idalid </h1> 
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
